@@ -265,6 +265,7 @@
     Товары в корзине = Essence Mascara Lash Princess, Eyeshadow Palette With Mirror
   steps:
     - Нажать кнопку "Clear Cart"
+  expected-result: |
     Все товары удалены из списка корзины. На экране отображается состояние пустой корзины с соответствующим текстом, итоговая сумма равна 0
 
 - summary: |
