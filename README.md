@@ -7,7 +7,7 @@
 Учебный проект Хекслета: https://ru.hexlet.io/programs/qa-engineer
 Как это должно работать: https://products-store-ru.hexlet.app
 
-## Структура проекта
+## Содержание файлов
 
 about.yml - описание профессиональных навыков тестировщика
 
