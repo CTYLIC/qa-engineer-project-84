@@ -274,6 +274,8 @@
     На странице корзины пользователь сможет продолжить выбирать товары в каталоге
   prerequisites: |
     Открыта страница корзины на сайте https://products-store.hexlet.app/
+  test-data: |
+    Действие = Клик по кнопке "Continue Shopping"
   steps:
     - Найти на странице корзины ссылку или кнопку "Continue Shopping" (Продолжить покупки) и кликнуть на неё
   expected-result: |
