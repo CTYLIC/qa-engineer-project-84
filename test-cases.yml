@@ -431,7 +431,7 @@
     Открыт сайт https://products-store.hexlet.app/
   test-data: |
     Целевые товары в одном ряду = Essence Mascara Lash Princess, Eyeshadow Palette With Mirror
-  steps: |
+  steps:
     - Открыть главную страницу каталога товаров
     - Открыть инструменты разработчика (DevTools, вкладка Elements)
     - Поочередно навести инспектор элементов на блоки div.card-body у разных товаров в одном ряду
